@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kobayashi-physics.github.io/sitemap.xml
