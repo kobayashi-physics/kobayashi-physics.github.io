@@ -108,15 +108,15 @@ CEMS Symposium on Emergent Quantum Materials 2025, Tokyo Japan, 2025/5/20&lt;/p&
 　本研究では、超伝導と超流動に焦点を当て研究を行いました。我々は時間-空間対称性の下で超伝導のハミルトニアンにおいても実バンドトポロジーを定義できることを示し、さらに既知のトポロジカル数との間に成り立つ関係式を導出しました。我々は、関係式より、磁場下の超流動ヘリウム3 B相はオイラー類で特徴付けられるトポロジカル超流動であることを明らかにしました。&lt;br&gt;
 　超流動ヘリウム3 B相は時間反転対称性の下でトポロジカル超流動であることが知られています。すなわち、磁場下ではこのトポロジカル数を定義することができずトポロジカルに自明となります。しかし、その後の理論研究で磁場下でもトポロジカル現象が現れることが示されていましたが、その理由は明らかではありませんでした。我々の結果は、この問題に対する答えを与えます。すなわち、磁場下の超流動ヘリウム3 B相ではオイラー類が存在し、オイラー類に付随するトポロジカル現象が現れていたと再解釈されます。さらには、我々は、オイラー類より、新しいトポロジカル現象が出現することも予言しました。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://arxiv.org/abs/2509.06406&#34;&gt;Euler band topology in superfluids and superconductors&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
-Shingo Kobayashi, Manabu Sato, and Akira Furusaki,
-arXiv:2509.06406&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/nxxl-wxwm&#34;&gt;Euler band topology in superfluids and superconductors&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
+Shingo Kobayashi, Manabu Sato, and Akira Furusaki, &lt;br&gt;
+&lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;113&lt;/strong&gt;, L060501 (2026).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;スピン3重項超伝導ute2における高次トポロジカル相&#34;&gt;スピン3重項超伝導UTe&lt;sub&gt;2&lt;/sub&gt;における高次トポロジカル相&lt;/h2&gt;
 &lt;p&gt;　近年、UTe&lt;sub&gt;2&lt;/sub&gt;がスピン3重項超伝導の有力候補として注目を集めています。臨界磁場、スピン帯磁率、トンネルコンダクタンスなど様々な実験がスピン3重項超伝導を支持しています。一方で、UTe&lt;sub&gt;2&lt;/sub&gt;がスピン3重項超伝導であるとき、どのようなトポロジーを持つのかは未解決の問題です。特に、超流動ヘリウム3 B相との違い、多バンド構造や結晶構造が存在するため問題がより複雑化です。&lt;br&gt;
 　本研究では、近年提案された高次トポロジカル相に関するトポロジカル分類法を用いてこの問題に取り組みました。本手法は、トポロジカル不変量を求めるだけでなく、高次トポロジー由来のトポロジカル表面状態も決定することができます。我々は、この分類法をUTe&lt;sub&gt;2&lt;/sub&gt;の結晶構造より許されるカイラルタイプの全てのクーパー対へ適用し、実現されるトポロジカル相を調べました。分類結果より、我々は、自明なスピン1重項クーパー対を除き、全てのクーパー対の対称性において高次トポロジカル相が実現されることを示しました。さらには、スピン3重項のクーパー対の種類によって3次トポロジカル相（角状態）、2次トポロジカル相（縁状態）、混成トポロジカル相（角＋縁状態）など多種多様な高次トポロジカル相が現れることを明らかにしました。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/7wcw-svtz&#34;&gt;Higher-order topological phases for time-reversal-symmetry breakingsuperconductivity in UTe&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/7wcw-svtz&#34;&gt;Higher-order topological phases for time-reversal-symmetry breaking superconductivity in UTe&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
 Yuki Yamazaki and Shingo Kobayashi,
 &lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;112&lt;/strong&gt;, 174507 (2025).&lt;/li&gt;
 &lt;/ul&gt;
@@ -140,13 +140,18 @@ Shingo Kobayashi and Akira Furusaki,
       <description>&lt;h2 id=&#34;論文&#34;&gt;論文&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/nxxl-wxwm&#34;&gt;Euler band topology in superfluids and superconductors&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
+Shingo Kobayashi, Manabu Sato, and Akira Furusaki, &lt;br&gt;
+&lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;113&lt;/strong&gt;, L060501 (2026).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/8m75-r8rm&#34;&gt;Three-dimensional spinless Euler insulators with rotational symmetry&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
 Manabu Sato, Shingo Kobayashi, Motoaki Hirayama, and Akira Furusaki,  &lt;br&gt;
 &lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;112&lt;/strong&gt;, 195108 (2025).   &lt;br&gt;
 Editors’ Suggestion&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/7wcw-svtz&#34;&gt;Higher-order topological phases for time-reversal-symmetry breakingsuperconductivity in UTe&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/7wcw-svtz&#34;&gt;Higher-order topological phases for time-reversal-symmetry breaking superconductivity in UTe&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
 Yuki Yamazaki and Shingo Kobayashi,  &lt;br&gt;
 &lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;112&lt;/strong&gt;, 174507 (2025).&lt;/p&gt;
 &lt;/li&gt;
