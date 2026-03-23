@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://kobayashi-physics.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/categories/"
+                href="https://kobayashi-physics.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://kobayashi-physics.github.io/en/categories/"
                 />
   </url><url>
-    <loc>/en/contact/</loc>
+    <loc>https://kobayashi-physics.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/contact/"
+                href="https://kobayashi-physics.github.io/ja/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/contact/"
+                href="https://kobayashi-physics.github.io/en/contact/"
                 />
   </url><url>
-    <loc>/en/profile/</loc>
+    <loc>https://kobayashi-physics.github.io/en/profile/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/profile/"
+                href="https://kobayashi-physics.github.io/ja/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/profile/"
+                href="https://kobayashi-physics.github.io/en/profile/"
                 />
   </url><url>
-    <loc>/en/</loc>
+    <loc>https://kobayashi-physics.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/"
+                href="https://kobayashi-physics.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://kobayashi-physics.github.io/en/"
                 />
   </url><url>
-    <loc>/en/publications/</loc>
+    <loc>https://kobayashi-physics.github.io/en/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/publications/"
+                href="https://kobayashi-physics.github.io/ja/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publications/"
+                href="https://kobayashi-physics.github.io/en/publications/"
                 />
   </url><url>
-    <loc>/en/research/</loc>
+    <loc>https://kobayashi-physics.github.io/en/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/research/"
+                href="https://kobayashi-physics.github.io/ja/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/research/"
+                href="https://kobayashi-physics.github.io/en/research/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>https://kobayashi-physics.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/tags/"
+                href="https://kobayashi-physics.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://kobayashi-physics.github.io/en/tags/"
                 />
   </url><url>
-    <loc>/en/talks/</loc>
+    <loc>https://kobayashi-physics.github.io/en/talks/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/talks/"
+                href="https://kobayashi-physics.github.io/ja/talks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talks/"
+                href="https://kobayashi-physics.github.io/en/talks/"
                 />
   </url><url>
-    <loc>/en/teaching/</loc>
+    <loc>https://kobayashi-physics.github.io/en/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/teaching/"
+                href="https://kobayashi-physics.github.io/ja/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/teaching/"
+                href="https://kobayashi-physics.github.io/en/teaching/"
                 />
   </url>
 </urlset>
