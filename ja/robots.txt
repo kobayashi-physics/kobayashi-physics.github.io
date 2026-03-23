@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www2.riken.jp/lab-www/cond-mat-theory/kobayashi/ja/sitemap.xml

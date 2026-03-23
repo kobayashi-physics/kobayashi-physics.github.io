@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Shingo Kobayashi&#39;s webpage</title>
-    <link>https://kobayashi-physics.github.io/en/</link>
+    <link>//localhost:1313/en/</link>
     <description>Recent content in Home on Shingo Kobayashi&#39;s webpage</description>
-    <generator>Hugo -- 0.154.1</generator>
+    <generator>Hugo -- 0.155.2</generator>
     <language>en</language>
-    <atom:link href="https://kobayashi-physics.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://kobayashi-physics.github.io/en/contact/</link>
+      <link>//localhost:1313/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kobayashi-physics.github.io/en/contact/</guid>
+      <guid>//localhost:1313/en/contact/</guid>
       <description>&lt;h2 id=&#34;affiliation&#34;&gt;Affiliation&lt;/h2&gt;
 &lt;p&gt;Quantum Matter Theory Research Group&lt;br&gt;
 RIKEN Center for Emergent Matter Science (CEMS)&lt;/p&gt;
@@ -23,11 +23,11 @@ RIKEN Center for Emergent Matter Science (CEMS)&lt;/p&gt;
     </item>
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://kobayashi-physics.github.io/en/profile/</link>
+      <link>//localhost:1313/en/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kobayashi-physics.github.io/en/profile/</guid>
+      <guid>//localhost:1313/en/profile/</guid>
       <description>&lt;p align=&#34;left&#34;&gt;
-  &lt;img src=&#34;https://kobayashi-physics.github.io/images/profile-DJ.jpeg&#34; width=&#34;350&#34;&gt;
+  &lt;img src=&#34;https://www2.riken.jp/lab-www/cond-mat-theory/kobayashi/ja/images/profile-DJ.jpeg&#34; width=&#34;350&#34;&gt;
 &lt;/p&gt;
 &lt;p&gt;I am a theoretical condensed-matter physicist working on quantum materials, including superconductors and topological materials. My research focuses in particular on topological superconductivity and the topological classification of superconducting and electronic states.&lt;/p&gt;
 &lt;ul&gt;
@@ -52,11 +52,16 @@ Department of Physics, Tokyo Institute of Technology, Japan&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Publications</title>
-      <link>https://kobayashi-physics.github.io/en/publications/</link>
+      <link>//localhost:1313/en/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kobayashi-physics.github.io/en/publications/</guid>
+      <guid>//localhost:1313/en/publications/</guid>
       <description>&lt;h2 id=&#34;articles&#34;&gt;Articles&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/rf8j-lf4s&#34;&gt;Exceptionally large winding number of a finite-size topological superconductor&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
+Satoshi Ikegaya, Shingo Kobayashi, and Yasuhiro Asano, &lt;br&gt;
+&lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;113&lt;/strong&gt;, 054519 (2026).&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/nxxl-wxwm&#34;&gt;Euler band topology in superfluids and superconductors&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
 Shingo Kobayashi, Manabu Sato, and Akira Furusaki, &lt;br&gt;
@@ -71,28 +76,28 @@ Editors’ Suggestion&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/7wcw-svtz&#34;&gt;Higher-order topological phases for time-reversal-symmetry breaking superconductivity in UTe&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
 Yuki Yamazaki and Shingo Kobayashi,  &lt;br&gt;
-&lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;112&lt;/strong&gt;, 174507 (2025).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/8npj-w7j5&#34;&gt;Oscillating-charged Andreev bound states and their appearance in UTe&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;&lt;/strong&gt; &lt;br&gt;
-Satoshi Ando*, Shingo Kobayashi*, Andreas P. Schnyder, Yasuhiro Asano, and Satoshi Ikegaya*,  &lt;br&gt;
-&lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;112&lt;/strong&gt;, 094506 (2025).  &lt;br&gt;
-*These authors contributed equally to this work.&lt;/p&gt;</description>
+&lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;112&lt;/strong&gt;, 174507 (2025).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Overview</title>
-      <link>https://kobayashi-physics.github.io/en/research/</link>
+      <link>//localhost:1313/en/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kobayashi-physics.github.io/en/research/</guid>
+      <guid>//localhost:1313/en/research/</guid>
       <description>&lt;h2 id=&#34;real-band-topology-in-superconductors-and-superfluids&#34;&gt;Real-Band Topology in Superconductors and Superfluids&lt;/h2&gt;
 &lt;p&gt;In systems with space-time inversion symmetries, a distinct type of topological structure known as real-band topology can emerge. Unlike conventional complex-band topology, real-band topology is defined for real Bloch wave functions, and it is characterized by topological invariants such as the Euler class and the Stiefel-Whitney classes. This framework has recently attracted growing interest in the study of twisted bilayer graphene, topological insulators, semimetals, and metamaterials.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks</title>
-      <link>https://kobayashi-physics.github.io/en/talks/</link>
+      <link>//localhost:1313/en/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kobayashi-physics.github.io/en/talks/</guid>
-      <description>&lt;h2 id=&#34;2025年&#34;&gt;2025年&lt;/h2&gt;
+      <guid>//localhost:1313/en/talks/</guid>
+      <description>&lt;h2 id=&#34;2026年&#34;&gt;2026年&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Euler band topology in superfluids and superconductors&lt;/strong&gt; &lt;br&gt;
+Shingo Kobayashi, Manabu Sato, Akira Furusaki, &lt;br&gt;
+DPG Spring Meeting 2026, Dresden Germany, 2026/3/9&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2025年&#34;&gt;2025年&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;副格子自由度を持つ超伝導体の表面状態と輸送現象&lt;/strong&gt; &lt;br&gt;
@@ -117,18 +122,13 @@ Satoshi Ando*, Shingo Kobayashi*, Andreas P. Schnyder, Yasuhiro Asano, and Satos
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Higher-order topological phases for time-reversal-symmetry-breaking superconductivity in UTe&lt;sub&gt;2&lt;/sub&gt;&lt;/strong&gt;  &lt;br&gt;
 Shingo Kobayashi and Yuki Yamazaki, &lt;br&gt;
-30th International Conference on Low Temperature Physics, Bilbao Spain, 2025/8/9&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Higher-order topological phases for time-reversal-symmetry-breaking superconductivity in UTe&lt;sub&gt;2&lt;/sub&gt;&lt;/strong&gt;  &lt;br&gt;
-Shingo Kobayashi and Yuki Yamazaki, &lt;br&gt;
-CEMS Symposium on Emergent Quantum Materials 2025, Tokyo Japan, 2025/5/20&lt;/p&gt;</description>
+30th International Conference on Low Temperature Physics, Bilbao Spain, 2025/8/9&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://kobayashi-physics.github.io/en/teaching/</link>
+      <link>//localhost:1313/en/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kobayashi-physics.github.io/en/teaching/</guid>
+      <guid>//localhost:1313/en/teaching/</guid>
       <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2025年 - 現在　物理学A, 東京電機大学1年生&lt;/li&gt;
