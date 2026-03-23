@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ホーム on Shingo Kobayashi&#39;s webpage</title>
-    <link>//localhost:1313/ja/</link>
+    <link>/ja/</link>
     <description>Recent content in ホーム on Shingo Kobayashi&#39;s webpage</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>ja</language>
-    <atom:link href="//localhost:1313/ja/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学会発表</title>
-      <link>//localhost:1313/ja/talks/</link>
+      <link>/ja/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ja/talks/</guid>
+      <guid>/ja/talks/</guid>
       <description>&lt;h2 id=&#34;2026年&#34;&gt;2026年&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Euler band topology in superfluids and superconductors&lt;/strong&gt; &lt;br&gt;
@@ -47,9 +47,9 @@ Shingo Kobayashi and Yuki Yamazaki, &lt;br&gt;
     </item>
     <item>
       <title>教育</title>
-      <link>//localhost:1313/ja/teaching/</link>
+      <link>/ja/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ja/teaching/</guid>
+      <guid>/ja/teaching/</guid>
       <description>&lt;h2 id=&#34;授業&#34;&gt;授業&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2025年 - 現在　物理学A, 東京電機大学1年生&lt;/li&gt;
@@ -67,9 +67,9 @@ Shingo Kobayashi and Yuki Yamazaki, &lt;br&gt;
     </item>
     <item>
       <title>経歴</title>
-      <link>//localhost:1313/ja/profile/</link>
+      <link>/ja/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ja/profile/</guid>
+      <guid>/ja/profile/</guid>
       <description>&lt;p align=&#34;left&#34;&gt;
   &lt;img src=&#34;https://www2.riken.jp/lab-www/cond-mat-theory/kobayashi/ja/images/profile-DJ.jpeg&#34; width=&#34;350&#34;&gt;
 &lt;/p&gt;
@@ -101,9 +101,9 @@ Shingo Kobayashi and Yuki Yamazaki, &lt;br&gt;
     </item>
     <item>
       <title>研究概要</title>
-      <link>//localhost:1313/ja/research/</link>
+      <link>/ja/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ja/research/</guid>
+      <guid>/ja/research/</guid>
       <description>&lt;h2 id=&#34;超伝導と超流動における実バンドトポロジー&#34;&gt;超伝導と超流動における実バンドトポロジー&lt;/h2&gt;
 &lt;p&gt;　時間-空間対称性を持つ系では、実バンドトポロジーと呼ばれるトポロジカル構造が現れます。実バンドトポロジーは実数値を取る波動関数の下で定義され、オイラー類やスティーフェル・ホイットニー類などのトポロジカル数で特徴づけられます。近年、ねじれ2層グラフェンをはじめ、絶縁体や半金属、メタ物質を中心に活発に研究が行われています。&lt;br&gt;
 　本研究では、超伝導と超流動に焦点を当て研究を行いました。我々は時間-空間対称性の下で超伝導のハミルトニアンにおいても実バンドトポロジーを定義できることを示し、さらに既知のトポロジカル数との間に成り立つ関係式を導出しました。我々は、関係式より、磁場下の超流動ヘリウム3 B相はオイラー類で特徴付けられるトポロジカル超流動であることを明らかにしました。&lt;br&gt;
@@ -135,9 +135,9 @@ Shingo Kobayashi and Akira Furusaki,
     </item>
     <item>
       <title>研究業績</title>
-      <link>//localhost:1313/ja/publications/</link>
+      <link>/ja/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ja/publications/</guid>
+      <guid>/ja/publications/</guid>
       <description>&lt;h2 id=&#34;論文&#34;&gt;論文&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -163,9 +163,9 @@ Yuki Yamazaki and Shingo Kobayashi,  &lt;br&gt;
     </item>
     <item>
       <title>連絡先</title>
-      <link>//localhost:1313/ja/contact/</link>
+      <link>/ja/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/ja/contact/</guid>
+      <guid>/ja/contact/</guid>
       <description>&lt;h2 id=&#34;所属&#34;&gt;所属&lt;/h2&gt;
 &lt;p&gt;理化学研究所創発物性科学研究センター　量子物性理論研究グループ&lt;/p&gt;
 &lt;h2 id=&#34;居室&#34;&gt;居室&lt;/h2&gt;

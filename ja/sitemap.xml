@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/ja/categories/</loc>
+    <loc>/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/categories/"
+                href="/ja/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/ja/tags/</loc>
+    <loc>/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/tags/"
+                href="/ja/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/ja/</loc>
+    <loc>/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/"
+                href="/ja/"
                 />
   </url><url>
-    <loc>//localhost:1313/ja/talks/</loc>
+    <loc>/ja/talks/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/talks/"
+                href="/en/talks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/talks/"
+                href="/ja/talks/"
                 />
   </url><url>
-    <loc>//localhost:1313/ja/teaching/</loc>
+    <loc>/ja/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/teaching/"
+                href="/en/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/teaching/"
+                href="/ja/teaching/"
                 />
   </url><url>
-    <loc>//localhost:1313/ja/profile/</loc>
+    <loc>/ja/profile/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/profile/"
+                href="/en/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/profile/"
+                href="/ja/profile/"
                 />
   </url><url>
-    <loc>//localhost:1313/ja/research/</loc>
+    <loc>/ja/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/research/"
+                href="/en/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/research/"
+                href="/ja/research/"
                 />
   </url><url>
-    <loc>//localhost:1313/ja/publications/</loc>
+    <loc>/ja/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/publications/"
+                href="/en/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/publications/"
+                href="/ja/publications/"
                 />
   </url><url>
-    <loc>//localhost:1313/ja/contact/</loc>
+    <loc>/ja/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/contact/"
+                href="/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//localhost:1313/ja/contact/"
+                href="/ja/contact/"
                 />
   </url>
 </urlset>
