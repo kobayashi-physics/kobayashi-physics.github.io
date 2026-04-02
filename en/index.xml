@@ -4,7 +4,7 @@
     <title>Home on Shingo Kobayashi&#39;s webpage</title>
     <link>https://kobayashi-physics.github.io/en/</link>
     <description>Recent content in Home on Shingo Kobayashi&#39;s webpage</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo -- 0.154.1</generator>
     <language>en</language>
     <atom:link href="https://kobayashi-physics.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,13 +13,28 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kobayashi-physics.github.io/en/contact/</guid>
       <description>&lt;h2 id=&#34;affiliation&#34;&gt;Affiliation&lt;/h2&gt;
-&lt;p&gt;Quantum Matter Theory Research Group&lt;br&gt;
-RIKEN Center for Emergent Matter Science (CEMS)&lt;/p&gt;
+&lt;p&gt;Associate Professor
+School of General and Management Studies,
+Suwa University of Science&lt;/p&gt;
 &lt;h2 id=&#34;office&#34;&gt;Office&lt;/h2&gt;
-&lt;p&gt;Main Research Building, 3rd Floor, Room 329&lt;/p&gt;
+&lt;p&gt;Room 23E, Building 2&lt;/p&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;Email: shingo.kobayashi (at) riken.jp  &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Please replace “(at)” with “@” to avoid spam.&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;Email: kobayashi_shingo (at) rs.sus.ac.jp  &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Please replace “(at)” with “@” to avoid spam.&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+Quantum Matter Theory Research Group  
+RIKEN Center for Emergent Matter Science (CEMS)
+
+## Office
+
+Main Research Building, 3rd Floor, Room 329
+
+## Contact
+
+Email: shingo.kobayashi (at) riken.jp  &lt;br&gt;
+
+*Please replace “(at)” with “@” to avoid spam.*
+--&gt;</description>
     </item>
     <item>
       <title>Curriculum Vitae</title>

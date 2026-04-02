@@ -4,7 +4,7 @@
     <title>ホーム on Shingo Kobayashi&#39;s webpage</title>
     <link>https://kobayashi-physics.github.io/ja/</link>
     <description>Recent content in ホーム on Shingo Kobayashi&#39;s webpage</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo -- 0.154.1</generator>
     <language>ja</language>
     <atom:link href="https://kobayashi-physics.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -174,12 +174,29 @@ Yuki Yamazaki and Shingo Kobayashi,  &lt;br&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kobayashi-physics.github.io/ja/contact/</guid>
       <description>&lt;h2 id=&#34;所属&#34;&gt;所属&lt;/h2&gt;
-&lt;p&gt;理化学研究所創発物性科学研究センター　量子物性理論研究グループ&lt;/p&gt;
+&lt;p&gt;公立諏訪東京理科大学工学部
+共通・マネジメント教育センター
+准教授&lt;/p&gt;
 &lt;h2 id=&#34;居室&#34;&gt;居室&lt;/h2&gt;
-&lt;p&gt;研究本館3階 329&lt;/p&gt;
+&lt;p&gt;2号館　23E室&lt;/p&gt;
 &lt;h2 id=&#34;連絡先&#34;&gt;連絡先&lt;/h2&gt;
-&lt;p&gt;Email：shingo.kobayashi(at)riken.jp&lt;/p&gt;
-&lt;p&gt;※ (at) を @ に置き換えてください。&lt;/p&gt;</description>
+&lt;p&gt;Email：kobayashi_shingo(at)rs.sus.ac.jp&lt;/p&gt;
+&lt;p&gt;※ (at) を @ に置き換えてください。&lt;/p&gt;
+&lt;!--
+## 所属
+
+理化学研究所創発物性科学研究センター　量子物性理論研究グループ
+ 
+## 居室
+
+研究本館3階 329
+
+## 連絡先
+
+Email：shingo.kobayashi(at)riken.jp  
+
+※ (at) を @ に置き換えてください。
+--&gt;</description>
     </item>
   </channel>
 </rss>
